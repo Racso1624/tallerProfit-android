@@ -107,8 +107,7 @@
             <TextView
                 android:id="@+id/btnCuatro"
                 style="@style/NumberButtonStyle"
-                android:text="4"
-                android:textSize="32dp"/>
+                android:text="4" />
 
             <TextView
                 android:id="@+id/btnCinco"
